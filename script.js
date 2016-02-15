@@ -1,9 +1,3 @@
-var dangBtn = function(){
-	alert("HEY THERE!");
-};
-
-$('button').click(dangBtn);
-
 var music = function(){
 	window.open(href="Music.html");
 };
